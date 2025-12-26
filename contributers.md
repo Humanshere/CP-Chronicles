@@ -1,6 +1,4 @@
 | Name| Github-ID | College name |
-
-
 |:-------------|:------------|:----------------|
 | Pradip Maity | @codeboy-pro | Haldia Institute Of Technology |
 
@@ -17,6 +15,8 @@
 |Mohan Kumar| aricthecoder | IIIT Allahabad |
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
+
+|Varad Singhal | VaradSinghal | SRMIST | 
 
 |Hardik Singh Rana|hardik-rana02|IIIT Allahabad|
 
