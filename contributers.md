@@ -18,6 +18,8 @@
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
 
+|Hardik Singh Rana|hardik-rana02|IIIT Allahabad|
+
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
