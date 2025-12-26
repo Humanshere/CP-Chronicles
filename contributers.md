@@ -11,6 +11,7 @@
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
 
+|Chanderkant Jhorar|novus547|IIIT Allahabad|
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
