@@ -13,5 +13,5 @@
 | Hardik Singh Rana       | hardik-rana02          | IIIT Allahabad                  |
 | Harshvardhan            | HARSH4885-svg          | IIIT Allahabad                  |
 | OMDEEP                  | omicoded19             | IIITA                           | 
-<!-- ADD ABOVE THIS -->
+| Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
 <!-- example | Korvac | Betty | Reyansh College | -->
