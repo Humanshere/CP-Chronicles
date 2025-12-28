@@ -58,6 +58,7 @@
 | Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
 |Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
 | Naman Pal              | Naman2251                | IIIT Allahabad
+| Pritha Jaiswal         | PrithaJaiswal            | IIIT Allahabad |
 | Mohammed Tailor       | tailormst                 | Shri Ramdeobaba College of Engineering & Management, Nagpur       |
 |Yuvaraj Ragothaman       | LevelSilence            |IIIT Allahabad|
 | Sudhanshu              | sahsudhanshu            | IIIT Allahabad                                                   |
@@ -66,5 +67,10 @@
 | Samarth Patel          | capricemoto              | IIIT Allahbad                                                     |
 | Divakar Bhatt          | wodivakar                | IIIT Allahabad                                                  |
 | Aiyaan Mahajan        | Aiyaan-Mahajan | NIT Srinagar |
-
+| Ahwan Sarkar           | ahwan84                  | IIIT Allahabad
+| Arushi Pandey         | Arushi2911     | NMIMS Chandigarh |
+| Thanusha Nallabelli   | thanusha17     | IIIT Allahabad   | 
+|Aman Sharma |          | amansharma264  |Sir M Visvesvaraya Institute of Technology                                  |
+| Aaryan Degama  |  Aaryan-Degama  |  IIIT Allahabad                                                                  |
+<!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
